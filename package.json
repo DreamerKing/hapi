@@ -1,0 +1,29 @@
+{
+  "name": "hapi.js",
+  "version": "1.0.0",
+  "description": "hapi.js",
+  "main": "go",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamerKing/hapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "hapi.js"
+  ],
+  "author": "DreamerKing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DreamerKing/hapi/issues"
+  },
+  "homepage": "https://github.com/DreamerKing/hapi#readme",
+  "dependencies": {
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "hapi": "^13.3.0",
+    "inert": "^3.2.0"
+  }
+}
