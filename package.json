@@ -28,5 +28,8 @@
     "karma": "^0.13.22",
     "mockjs": "^1.0.0",
     "vue": "^1.0.21"
+  },
+  "devDependencies": {
+    "video.js": "^5.9.2"
   }
 }
